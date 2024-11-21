@@ -4,7 +4,7 @@ import Layout from './components/Layout';
 import Home from './components/Home';
 import MovieDetails from './components/MovieDetails';
 import OtherContent from './components/OtherContent';
-import SearchResults from './components/SearchResults'; // Importa el componente de resultados de búsqueda
+import SearchResults from './components/SearchResults';
 
 function App() {
     return (
